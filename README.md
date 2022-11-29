@@ -3,6 +3,6 @@
 - 📱 Android Java Based Finance Manager 
   
   🔧 Tools:
-    - Java
+    - Java (Object Oriented Principles)
     - Android Studio
     - Firebase

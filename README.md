@@ -8,3 +8,7 @@
     - Java (Object Oriented Principles)
     - Android Studio
     - Firebase
+    
+      
+ 👀 See More:
+ - [Androd Java Based Budget Application](https://www.johnpauljones.me/financialwise-application "Budget Application")

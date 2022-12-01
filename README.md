@@ -19,6 +19,7 @@
       - Firebase Authentication
       - Firebase Real-time database
       - Firestore database
+      - CSS (For styling)
     
       
 ## 👀 See More:

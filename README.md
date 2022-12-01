@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">>
-      <img src="https://github.com/jpdsnz/jpdsnz/blob/main/fw.jpg">
+      <img height="666" src="https://github.com/jpdsnz/jpdsnz/blob/main/fw.jpg">
 </p>
 
 ## 📱 Android Java Based Finance Manager Application

@@ -1,6 +1,15 @@
 # 💲 Financialwise Android Finance Manager Application
 
-![pic](https://github.com/jpdsnz/jpdsnz/blob/main/fw.jpg?raw=true)
+<p align="center">
+      <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/android.png">
+      <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/firebase.png">
+      <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/java-white.png">
+      <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/css-white.png">
+</p>
+
+<p align="center">>
+      <img src="https://github.com/jpdsnz/jpdsnz/blob/main/fw.jpg">
+</p>
 
 ## 📱 Android Java Based Finance Manager Application
   

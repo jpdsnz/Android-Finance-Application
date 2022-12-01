@@ -16,7 +16,9 @@
 ## 🔧 Tools:
       - Java (Object Oriented Principles)
       - Android Studio
-      - Firebase
+      - Firebase Authentication
+      - Firebase Real-time database
+      - Firestore database
     
       
 ## 👀 See More:
